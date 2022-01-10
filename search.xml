@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>疫情</title>
+      <link href="/2022/01/10/%E7%96%AB%E6%83%85/"/>
+      <url>/2022/01/10/%E7%96%AB%E6%83%85/</url>
+      
+        <content type="html"><![CDATA[<h3 id="每年过年疫情就加重，最近西安河南都戒严了"><a href="#每年过年疫情就加重，最近西安河南都戒严了" class="headerlink" title="每年过年疫情就加重，最近西安河南都戒严了"></a>每年过年疫情就加重，最近西安河南都戒严了</h3><p>失业在家快两年了，工作是真不好找，老百姓现在是真的没钱，现在买菜是真买不起了，</p><span id="more"></span><p><img src="./yq.jpg"></p><p>前两天买了一颗葱，一个西柿，几根香菜大概用了8块钱，这吃不起啊，一个小白菜3.5块</p><p>基本生活都坚持不下了，好久都没到饭店潇洒过了。</p><p>这真都2022年了，越来越难了….</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 2022年 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 疫情 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>主题说明</title>
+      <link href="/2021/12/16/%E4%B8%BB%E9%A2%98%E8%AF%B4%E6%98%8E/"/>
+      <url>/2021/12/16/%E4%B8%BB%E9%A2%98%E8%AF%B4%E6%98%8E/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Hexo-Theme-Minima-v1-0-is-Officially-Released"><a href="#Hexo-Theme-Minima-v1-0-is-Officially-Released" class="headerlink" title="Hexo Theme: Minima v1.0 is Officially Released"></a>Hexo Theme: Minima v1.0 is Officially Released</h2><p><img src="https://adisaktijrs.github.io/2020/10/11/Hexo-Minima-Theme-v1-0-Officially-Released/minima.jpg" alt="Minima preview, device template by Freepik"></p><p>Minima preview, device image by Freepik</p><ul><li>Demo <a href="https://adisaktijrs.github.io/minima">here</a></li><li>GitHub repository <a href="https://github.com/adisaktijrs/hexo-theme-minima">here</a> (leave a star if you like it 😁)</li></ul><h3 id="About-Minima"><a href="#About-Minima" class="headerlink" title="About Minima"></a>About Minima</h3><p>Minima is an undoubtedly simple and lightweight dark/light mode theme for Hexo. I created this from scratch using <a href="http://getskeleton.com/">Skeleton CSS</a> boilerplate. It uses only CSS and Vanilla JS, without using unnecessary third-party ‘render-blocking’ libraries.</p><h4 id="Simplicity"><a href="#Simplicity" class="headerlink" title="Simplicity"></a>Simplicity</h4><p>Simplicity is a must! When I decided to move to Hexo for my personal blogging platform, the main reason was to find a simple and clean design, no fancy looks, unnecessary images and colors either. I’d like to have a blog that focuses on the content of my posts rather than turning readers attention to a ‘cluttered’ user interface. I found lots of beautiful themes on the Hexo themes page, but finally I decided to make my own.</p><h4 id="Lightweight"><a href="#Lightweight" class="headerlink" title="Lightweight"></a>Lightweight</h4><p>This ‘lightweight’ means the theme uses as few design stuff as possible. Fewer JavaScript and CSS files. Minima only uses Skeleton for the CSS-boilerplate and <a href="https://nanobar.jacoborus.codes/">nanobar.js</a> for the top loading bar. The following is the ‘gross’ performance of my blog with the Minima theme:</p><p><img src="https://adisaktijrs.github.io/2020/10/11/Hexo-Minima-Theme-v1-0-Officially-Released/Screenshot.png" alt="Minima site web.dev result"></p><h4 id="Customization"><a href="#Customization" class="headerlink" title="Customization"></a>Customization</h4><p>Minima uses vanilla JavaScript, vanilla CSS, and <a href="https://ejs.co/">EJS</a>. So it will be very easy for everyone to edit and customize the theme.</p><h3 id="Features"><a href="#Features" class="headerlink" title="Features"></a>Features</h3><ul><li>Pass the core of <a href="https://github.com/hexojs/hexo-theme-unit-test">Hexo Theme Unit Test</a></li><li>Fully responsive design</li><li>Support post, page, tags, archives, and pagination</li><li>SEO: post meta description and images (appears in Facebook/Twitter shared-link)</li><li>[Customizable] icon Dark/light mode instant switch 🌑/☀️</li><li>[Customizable] theme color</li><li>Code highlighting with <a href="https://prismjs.com/">Prism.js</a></li><li><a href="https://disqus.com/">Disqus</a> for post comments</li><li>Button for show comments section for faster posts loading</li></ul><hr><h2 id="Documentation"><a href="#Documentation" class="headerlink" title="Documentation"></a>Documentation</h2><h3 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h3><p>Use the <strong>stable</strong> version</p><ol><li>Download the <a href="https://github.com/adisaktijrs/hexo-theme-minima/releases">stable version here</a>. And <strong>rename the folder to minima</strong> and place it at the <strong>themes folder</strong> of your Hexo blog. New to Hexo? Watch this <a href="https://www.youtube.com/watch?v=A-muxF_6plc">tutorial</a></li></ol><p>Or you can use the <strong>development</strong> version </p><ol><li><p>Execute this command in your terminal (at your Hexo blog root dir):</p><pre class="line-numbers language-none"><code class="language-none">git clone https://github.com/adisaktijrs/hexo-theme-minima.git themes/minima<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre></li><li><p>Modify the theme in Hexo configuration file</p><p>_config.yml</p><p>(config file in the root dir, not the theme config) by setting theme variable to</p><p>minima</p><pre class="line-numbers language-js" data-language="js"><code class="language-js">_config<span class="token punctuation">.</span>yml# Extensions## Plugins<span class="token operator">:</span> https<span class="token operator">:</span><span class="token operator">/</span><span class="token operator">/</span>hexo<span class="token punctuation">.</span>io<span class="token operator">/</span>plugins<span class="token operator">/</span>## Themes<span class="token operator">:</span> https<span class="token operator">:</span><span class="token operator">/</span><span class="token operator">/</span>hexo<span class="token punctuation">.</span>io<span class="token operator">/</span>themes<span class="token operator">/</span>theme<span class="token operator">:</span> minima<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span></span></code></pre></li><li><p>That’s all. To fully configure the Minima theme, follow the Configuration steps below!</p></li></ol><h3 id="Site-Configuration"><a href="#Site-Configuration" class="headerlink" title="Site Configuration"></a>Site Configuration</h3><h4 id="Code-Highlighting"><a href="#Code-Highlighting" class="headerlink" title="Code Highlighting"></a>Code Highlighting</h4><p>Minima uses Prism.js to highlight the code. So <strong>modify the _config.yml of your site</strong> to somewhat like this below:</p><pre class="line-numbers language-none"><code class="language-none">_config.ymlhighlight:  enable: false #set it to false  line_number: false  auto_detect: false  tab_replace: ''  wrap: false #false  hljs: falseprismjs:  enable: true #set it to true  preprocess: true  line_number: true #optional  tab_replace: ''<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><p>Make sure your code highlight configuration is saved properly by <strong>clearing the Hexo cache</strong> and run your server. Run this command in your terminal:</p><pre class="line-numbers language-none"><code class="language-none">$ hexo clean$ hexo server<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre><h4 id="SEO-Image-Thumbnail-for-Shared-link"><a href="#SEO-Image-Thumbnail-for-Shared-link" class="headerlink" title="SEO Image Thumbnail for Shared-link"></a>SEO Image Thumbnail for Shared-link</h4><p>Minima uses meta data for image preview when your Post link is shared to social media. Here the example when you share your Post link to Twitter:<br><img src="https://adisaktijrs.github.io/2020/10/11/Hexo-Minima-Theme-v1-0-Officially-Released/Screenshot2.png" alt="img"><br>To do that you must modify your <strong>post_asset_folder variable</strong> to true in your site _config.yml. See below:</p><pre class="line-numbers language-none"><code class="language-none">_config.yml# Writingpost_asset_folder: true #set it to true<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre><p>And then whenever you make a post, <strong>add thumbnail</strong> in your post .md file. See the example post below:</p><pre class="line-numbers language-js" data-language="js"><code class="language-js"><span class="token operator">/</span>source<span class="token operator">/</span>_posts<span class="token operator">/</span>your<span class="token operator">-</span>post<span class="token punctuation">.</span>md<span class="token operator">--</span><span class="token operator">-</span>title<span class="token operator">:</span> Your Postdate<span class="token operator">:</span> <span class="token number">2020</span><span class="token operator">-</span><span class="token number">10</span><span class="token operator">-</span><span class="token number">11</span> <span class="token number">10</span><span class="token operator">:</span><span class="token number">09</span><span class="token operator">:</span><span class="token number">47</span>tags<span class="token operator">:</span> <span class="token punctuation">[</span>Tag1<span class="token punctuation">]</span>thumbnail<span class="token operator">:</span> YourImage<span class="token punctuation">.</span>jpg #Here is the image preview<span class="token operator">--</span><span class="token operator">-</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><p>Learn more about it <a href="https://hexo.io/docs/asset-folders.html">here.</a></p><h3 id="Theme-Configuration"><a href="#Theme-Configuration" class="headerlink" title="Theme Configuration"></a>Theme Configuration</h3><p>You can customize many elements in your Minima blog by changing some variables in <strong>minima/_config.yml</strong>:</p><pre class="line-numbers language-js" data-language="js"><code class="language-js"><span class="token operator">/</span>themes<span class="token operator">/</span>minima<span class="token operator">/</span>_config<span class="token punctuation">.</span>yml#title <span class="token keyword">in</span> headertitle<span class="token operator">:</span> <span class="token string">"Hi Folks."</span>#main info#ownerowner<span class="token operator">:</span> <span class="token string">"I am Adi Sakti Jrs"</span>email<span class="token operator">:</span> test@test<span class="token punctuation">.</span>testinfo<span class="token operator">:</span> <span class="token string">"A student and web developer from Indonesia 🇮🇩"</span>#descriptiondesc<span class="token operator">:</span> <span class="token string">"This is Minima, an undoubtedly simple and lightweight dark/light mode theme for Hexo."</span>#menumenu<span class="token operator">:</span>  Works<span class="token operator">:</span> <span class="token operator">/</span>Works  About<span class="token operator">:</span> <span class="token operator">/</span>About#index<span class="token operator">/</span>main page max show <span class="token function">posts</span> <span class="token punctuation">(</span><span class="token keyword">in</span> number<span class="token punctuation">)</span>max_post<span class="token operator">:</span> <span class="token number">4</span># Colors use hex color without ## Theme colortcolor<span class="token operator">:</span> <span class="token number">0</span>FA0CE# Define path to user css#<span class="token punctuation">(</span>could be also located outside <span class="token keyword">of</span> theme<span class="token punctuation">)</span># Relative to source<span class="token operator">/</span> directoryusercss<span class="token operator">:</span> css<span class="token operator">/</span>user<span class="token punctuation">.</span>css# social profile at the footer<span class="token operator">/</span>bottomfooter<span class="token operator">:</span> <span class="token boolean">true</span>placename<span class="token operator">:</span> Earthplacelink<span class="token operator">:</span> https<span class="token operator">:</span><span class="token operator">/</span><span class="token operator">/</span>en<span class="token punctuation">.</span>wikipedia<span class="token punctuation">.</span>org<span class="token operator">/</span>wiki<span class="token operator">/</span>Earthgithub<span class="token operator">:</span> https<span class="token operator">:</span><span class="token operator">/</span><span class="token operator">/</span>github<span class="token punctuation">.</span>com<span class="token operator">/</span>adisaktijrslinkedin<span class="token operator">:</span> https<span class="token operator">:</span><span class="token operator">/</span><span class="token operator">/</span>linkedin<span class="token punctuation">.</span>com<span class="token operator">/</span><span class="token keyword">in</span><span class="token operator">/</span>adisaktijrstwitter<span class="token operator">:</span> https<span class="token operator">:</span><span class="token operator">/</span><span class="token operator">/</span>twitter<span class="token punctuation">.</span>com<span class="token operator">/</span>adisaktijrsinstagram<span class="token operator">:</span> https<span class="token operator">:</span><span class="token operator">/</span><span class="token operator">/</span>instagram<span class="token punctuation">.</span>com<span class="token operator">/</span>adisaktijrsstackoverflow<span class="token operator">:</span> https<span class="token operator">:</span><span class="token operator">/</span><span class="token operator">/</span>stackoverflow<span class="token punctuation">.</span>com<span class="token operator">/</span>story<span class="token operator">/</span>tobiasreithmeier# Miscnanobar<span class="token operator">:</span> <span class="token operator">/</span>js<span class="token operator">/</span>nanobar<span class="token punctuation">.</span>min<span class="token punctuation">.</span>jsswitch_light<span class="token operator">:</span> ☀️switch_dark<span class="token operator">:</span> 🌑# faviconfavicon<span class="token operator">:</span> <span class="token operator">/</span>images<span class="token operator">/</span>favicon<span class="token punctuation">.</span>png# thumbnailthumbnail<span class="token operator">:</span> <span class="token operator">/</span>images<span class="token operator">/</span>thumbnail<span class="token punctuation">.</span>jpgarticle<span class="token operator">:</span>  thumbnail<span class="token operator">:</span> <span class="token boolean">true</span># <span class="token constant">DISQUS</span> <span class="token function">comments</span> <span class="token punctuation">(</span>sign up to Disqus to <span class="token keyword">get</span> disqus_shortname<span class="token punctuation">)</span>disqus_enabled<span class="token operator">:</span> <span class="token boolean">false</span>disqus_shortname<span class="token operator">:</span> https<span class="token operator">-</span>adisaktijrs<span class="token operator">-</span>github<span class="token operator">-</span>io<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h3 id="Footnote"><a href="#Footnote" class="headerlink" title="Footnote:"></a>Footnote:</h3><p>Thanks for using Minima for your Hexo blog theme. Hope you’ll like it. If you have any problems with this theme you can ask me at the comments section below. And if you want to contribute to Minima, go ahead, fork and make a pull request! 😁</p><h3 id="Update"><a href="#Update" class="headerlink" title="Update:"></a>Update:</h3><p>October 12: Anyway this theme PR to Hexo themes page is currently under review.<br>October 13: Minima is officially released at Hexo themes official page.<br>November 1: Release v1.1 see <a href="https://github.com/adisaktijrs/hexo-theme-minima/releases/tag/v1.1">changelog here</a><br>March 2, 2021: Release v2.0 see <a href="https://github.com/adisaktijrs/hexo-theme-minima/releases/tag/v2.0">changelog here</a> 🌱</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>hexo图片不显示</title>
+      <link href="/2021/12/12/hexo%E5%9B%BE%E7%89%87%E4%B8%8D%E6%98%BE%E7%A4%BA/"/>
+      <url>/2021/12/12/hexo%E5%9B%BE%E7%89%87%E4%B8%8D%E6%98%BE%E7%A4%BA/</url>
+      
+        <content type="html"><![CDATA[<h2 id="图片不显示我是怎么做的"><a href="#图片不显示我是怎么做的" class="headerlink" title="图片不显示我是怎么做的"></a>图片不显示我是怎么做的</h2><p>网上找了半天都没一个说对的，有搞好的得用插件什么的，大部分都是文案抄来抄去的，下面就是我自己瞎搞好了的。</p><p>把post_asset_folder: false改为: true  新建文章的时候就会自动生成一个跟文章名字一样的文件夹，</p><p><span data-hk-page="current"> - </span></p><span id="more"></span><p>例如: <img src="./4.png"></p><h3 id="这个改了插图的时候直接用-图片名称-png-网站上和本地都可以显示出来，但是用边写边预览的工具就不会显示图片就是下面这样子"><a href="#这个改了插图的时候直接用-图片名称-png-网站上和本地都可以显示出来，但是用边写边预览的工具就不会显示图片就是下面这样子" class="headerlink" title="这个改了插图的时候直接用 ./图片名称.png 网站上和本地都可以显示出来，但是用边写边预览的工具就不会显示图片就是下面这样子"></a>这个改了插图的时候直接用 ./图片名称.png 网站上和本地都可以显示出来，但是用边写边预览的工具就不会显示图片就是下面这样子</h3><pre class="line-numbers language-none"><code class="language-none">&lt;img src="./pj.png" style="zoom:33%;" /&gt;<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>本地 hexo s后是可以显示的</p><img src="./3.png" style="zoom:60%;"><h3 id="部署到服务器也可以显示的"><a href="#部署到服务器也可以显示的" class="headerlink" title="部署到服务器也可以显示的"></a>部署到服务器也可以显示的</h3><p><img src="./2.png"></p><h3 id="也没用任何插件-WINDOWS系统-其它系统就不清楚了。"><a href="#也没用任何插件-WINDOWS系统-其它系统就不清楚了。" class="headerlink" title="也没用任何插件 WINDOWS系统 其它系统就不清楚了。"></a>也没用任何插件 WINDOWS系统 其它系统就不清楚了。</h3>]]></content>
+      
+      
+      <categories>
+          
+          <category> hexo图片不显示 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>博客放服务器了</title>
+      <link href="/2021/12/12/%E5%8D%9A%E5%AE%A2%E6%94%BE%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%BA%86/"/>
+      <url>/2021/12/12/%E5%8D%9A%E5%AE%A2%E6%94%BE%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%BA%86/</url>
+      
+        <content type="html"><![CDATA[<h2 id="终于放服务器上了"><a href="#终于放服务器上了" class="headerlink" title="终于放服务器上了"></a>终于放服务器上了</h2><p>不容易啊，本地测试搞了两天啊这玩意儿，这比其它BLOG难多了，为啥还有好多人说简单呢，</p><p>PHP的博客随便放一个虚拟主机就可以，这玩意儿又是本地又是部署的，费劲！！！</p><p>现在又得学怎么发文章 - -！！</p><span id="more"></span><p>这比打游戏累多了，哈哈！喝点小酒放松放松~~<img src="./pj.png" style="zoom:33%;"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> vps </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>hexo</title>
+      <link href="/2021/12/12/hexo/"/>
+      <url>/2021/12/12/hexo/</url>
+      
+        <content type="html"><![CDATA[<h2 id="19年的时候就学会使用HEXO博客，之后就没在玩博客，最近在家无聊又想搞个博客玩一下，"><a href="#19年的时候就学会使用HEXO博客，之后就没在玩博客，最近在家无聊又想搞个博客玩一下，" class="headerlink" title="19年的时候就学会使用HEXO博客，之后就没在玩博客，最近在家无聊又想搞个博客玩一下，"></a>19年的时候就学会使用HEXO博客，之后就没在玩博客，最近在家无聊又想搞个博客玩一下，</h2><p>用了其它BLOG程序之后懒得改模板，就又想起了HEXO好像还不错，就想从新搭建，可是两年多没用全给忘了，</p><p>又重新学习搭建跟使用，哎！好麻烦啊，搞了一天一夜的才搞明白怎么使用，远程发布到服务器到现在还没搞</p><p>好，gitee会发布了，VPS服务器还没搞会，发个图片试试看吧</p><p><span data-hk-page="current"> <a href="https://wcxf.net/2021/12/12/hexo/">https://wcxf.net/2021/12/12/hexo/</a></span></p><span id="more"></span><p><img src="http://okoo.cn-bj.ufileos.com/whz.jpg"></p><p>还是刷抖音舒服啊，这玩意不用就忘。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2021/12/12/hello-world/"/>
+      <url>/2021/12/12/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo server<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo generate<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
