@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://okoo.eu.org/2022/01/11/%E5%85%8D%E8%B4%B9%E5%9F%9F%E5%90%8D%E7%A9%BA%E9%97%B4/</loc>
+    
+    <lastmod>2022-01-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://okoo.eu.org/2022/01/10/%E7%96%AB%E6%83%85/</loc>
     
     <lastmod>2022-01-10</lastmod>
@@ -126,6 +135,13 @@
   </url>
   
   <url>
+    <loc>https://okoo.eu.org/tags/%E5%85%8D%E8%B4%B9%E5%9F%9F%E5%90%8D/</loc>
+    <lastmod>2022-01-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://okoo.eu.org/tags/vps/</loc>
     <lastmod>2022-01-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -143,6 +159,13 @@
   
   <url>
     <loc>https://okoo.eu.org/categories/hexo%E5%9B%BE%E7%89%87%E4%B8%8D%E6%98%BE%E7%A4%BA/</loc>
+    <lastmod>2022-01-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://okoo.eu.org/categories/%E5%85%8D%E8%B4%B9%E8%B5%84%E6%BA%90/</loc>
     <lastmod>2022-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
